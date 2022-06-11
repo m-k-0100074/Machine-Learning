@@ -1,4 +1,4 @@
-#### [Apparel Recommendation System](https://github.com/manognya-kamatam/Machine-Learning/recommendation.ipynb)
+#### [Apparel Recommendation System]()
 
 <p align="center">
   <img src="./image/ss1.png">
@@ -9,7 +9,7 @@ Sample ML code for a user driven system which recommends apparel based on users 
 ##### Tools & Technologies
 - Python, ML libraries - Numpy, Pandas, SciKit Learn, Seaborn, Matplotlib, Scipy, NLTK, PIL
 
-#### [Snapchat Clone ML Application](https://github.com/manognya-kamatam/Machine-Learning/Live Filters.py)
+#### [Snapchat Clone ML Application]()
 
 <p align="center">
   <img src="./image/ss2.jpg">
@@ -20,7 +20,7 @@ Live filter application using Python with Machine Learning libraries.
 ##### Tools & Technologies
 - Python, ML libraries - OpenCV, Numpy
 
-#### [Face Recognition ML Application](https://github.com/manognya-kamatam/Machine-Learning/face2(Algorithm - knn).py)
+#### [Face Recognition ML Application]()
 
 <p align="center">
   <img src="./image/ss3.jpg">
@@ -31,7 +31,7 @@ Sample face detection application using KNN algorithm.
 ##### Tools & Technologies
 - Python, ML libraries - OpenCV, Numpy
 
-#### [Handwritten Digit Recognizer](https://github.com/manognya-kamatam/Machine-Learning/Digit recognizer.ipynb)
+#### [Handwritten Digit Recognizer]()
 
 <p align="center">
   <img src="./image/ss4.png">
@@ -42,7 +42,7 @@ An ML application which detects the digits present in an image of a handwritten 
 ##### Tools & Technologies
 - Python, ML libraries - Numpy, Pandas, Matplotlib
 
-#### [Dominant Color Extraction Application](https://github.com/manognya-kamatam/Machine-Learning/Dominant Color Extraction.ipynb)
+#### [Dominant Color Extraction Application]()
 
 <p align="center">
   <img src="./image/ss5.png">
